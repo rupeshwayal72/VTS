@@ -5,7 +5,6 @@ Purpose:
 
 Tools
 --
-IntelliJ IDE - Best Java IDE in the Whole Wide World!!!
 Eclipse Java EE
 Java 7+
 WebDriver 3.14
