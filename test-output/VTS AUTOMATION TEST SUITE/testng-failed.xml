@@ -8,7 +8,7 @@
   </listeners>
   <test name="HomePageTest">
     <classes>
-      <class name="com.vts.qa.testcases.homePageTest"/>
+      <class name="com.vts.qa.testcases.viewQuotesTest"/>
     </classes>
   </test> <!-- HomePageTest -->
 </suite> <!-- Failed suite [VTS AUTOMATION TEST SUITE] -->

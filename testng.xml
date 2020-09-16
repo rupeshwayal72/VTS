@@ -13,9 +13,15 @@
 			class-name="com.vts.qa.ExtentReportListner.ExtentReportListenerNG" />
 	</listeners>
 
-	<test name="HomePageTest">
+	<test name="viewQuotesTest">
 		<classes>
-			<class name="com.vts.qa.testcases.homePageTest" />
+			<class name="com.vts.qa.testcases.viewQuotesTest" />
+		</classes>
+	</test>
+
+	<test name="viewQuotesTest2">
+		<classes>
+			<class name="com.vts.qa.testcases.viewQuotesTest2" />
 		</classes>
 	</test>
 
